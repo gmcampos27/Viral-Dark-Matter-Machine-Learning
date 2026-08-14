@@ -16,7 +16,10 @@ Taxonomic Validation: Integrated R scripts for ggtree phylogenetics and ICTV-com
 ├── codes_ml/            # Feature extraction, training (RF/XGB) & stats
 ├── Anellovirus_Tree/    # Phylogeny (ggtree) & Pairwise Identity plot
 ├── Models/              # Trained .pkl models & LabelEncoders
-└── data/                # Training dataset (Final_df)
+
+Please go to https://doi.org/10.5281/zenodo.21907977 to see the dataset
+
+Contigs are avaliable at the following Accession Numbers: GenBank PZ533894-PZ533937 
 
 Public Avaliable Samples utilized in this study: 
 SRR32222465
